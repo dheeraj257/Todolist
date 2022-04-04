@@ -1,0 +1,34 @@
+.container{
+    /* background-color: aqua; */
+    /* width: 500px; */
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    text-align: center;
+}
+.itemlist{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+.inputContainer input{
+    padding: 5px 10px;
+}
+.add{
+    width: 50px;
+    height: 30px;
+}
+.item{
+    /* margin: 10px 20px ; */
+    padding: 10px 10px ;
+}
+.edit,.delete{
+    width: 50px;
+    height: 30px;
+    text-align: center;
+}
+body{
+    background-color: rgb(255, 166, 166);
+
+}
